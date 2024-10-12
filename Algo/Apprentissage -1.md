@@ -91,8 +91,19 @@ Fin
 ```
 Ou encore avec la boucle répéter (while)
 ```algo
-Algorithme CompteJusqueCen
+Algorithme CompteJusqueCentVersionRepeter
+Variable i:entier
+Début 
+	i<-1
+	Répéter
+		 Écrire(i)
+		 ALaLigne
+		 i<-i+1
+	Jusqu'à (i>100)
+Fin
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NjkwODczLDE3OTU0NDg1ODQsMTYyMD
-gzMjA1OCwtMzc3NzAzMTU5LDExMzE1ODI0MzldfQ==
+eyJoaXN0b3J5IjpbMjAwMDIyMTIzOSwxNzk1NDQ4NTg0LDE2Mj
+A4MzIwNTgsLTM3NzcwMzE1OSwxMTMxNTgyNDM5XX0=
 -->
