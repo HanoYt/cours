@@ -64,8 +64,21 @@ Début
 	Fin Pour
 Fin
 ```
-On peut également faire ce type de boucle avec des "tant que" mais à ce moment là il faudra initialiser `i`
+On peut également faire ce type de boucle avec des "tant que" mais à ce moment là il faudra initialiser `i` avec une valeur puis l'augmenter de 1 à chaque passage dans la boucle. Cela donne ce type de code :
+```algo
+Algorithme CompteJusqueCentVersionTQ
+Variable i : entier
+Début
+	i=1
+	Tant que (i<=100) faire
+		Ecrire (i)
+		ALaLigne
+		i<-i+1
+	Fin tant que 
+Fin
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDA0NjkyMDEsMTYyMDgzMjA1OCwtMz
+eyJoaXN0b3J5IjpbLTIwOTU5MDIzNDUsMTYyMDgzMjA1OCwtMz
 c3NzAzMTU5LDExMzE1ODI0MzldfQ==
 -->
