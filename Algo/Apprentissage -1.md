@@ -46,8 +46,16 @@ Fin
 Pour les boucles, nous avons la réalisation d'une instance jusqu'à ce que celle-ci atteigne un point donné. Nous avons donc pour les boucle for la définition d'une variable (`i` par exemple) et ensuite nous avons l'instance.
 ```algo
 Algorithme CompteJusqueCent
-Variable 
+Variable i : entier 
+Début 
+	Pour i <- 1 à 100 faire
+		Écrire(i)
+		ALaLigne
+	Fin Pour
+Fin
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1Njk3NTUyMCwtMzc3NzAzMTU5LDExMz
+eyJoaXN0b3J5IjpbMTYyMDgzMjA1OCwtMzc3NzAzMTU5LDExMz
 E1ODI0MzldfQ==
 -->
