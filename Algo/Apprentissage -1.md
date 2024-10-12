@@ -43,9 +43,11 @@ Fin
 ```
 
 #### Les boucles 
-
-
+Pour les boucles, nous avons la réalisation d'une instance jusqu'à ce que celle-ci atteigne un point donné. Nous avons donc pour les boucle for la définition d'une variable (`i` par exemple) et ensuite nous avons l'instance.
+```algo
+Algorithme CompteJusqueCent
+Variable 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQ0NjkyNDgsLTM3NzcwMzE1OSwxMT
-MxNTgyNDM5XX0=
+eyJoaXN0b3J5IjpbMTQ1Njk3NTUyMCwtMzc3NzAzMTU5LDExMz
+E1ODI0MzldfQ==
 -->
