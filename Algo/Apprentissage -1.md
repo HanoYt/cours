@@ -22,8 +22,15 @@ C --> D
 ```
 ### Premier élément 
 #### Instruction de sortie 
+Dans un algorithme, nous avons dans un premier temps le texte de début de l'algorithme, pour ensuite faire des actions dans cet algorithme et par la suite terminer chaque premier itération par un "fin". 
+- on a donc par exemple `si`
 ``` algo
-Algorithme 
+Algorithme NomAlgorithme 
+Début
+	... actions
+Fin
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMTU4MjQzOV19
+eyJoaXN0b3J5IjpbMTY5OTIyNDQ3NywxMTMxNTgyNDM5XX0=
 -->
