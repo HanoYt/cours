@@ -89,8 +89,10 @@ Début
 	Fin si
 Fin
 ```
-
+Ou encore avec la boucle répéter (while)
+```algo
+Algorithme CompteJusqueCen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjg0MDgwNzgsMTc5NTQ0ODU4NCwxNj
-IwODMyMDU4LC0zNzc3MDMxNTksMTEzMTU4MjQzOV19
+eyJoaXN0b3J5IjpbLTk0NjkwODczLDE3OTU0NDg1ODQsMTYyMD
+gzMjA1OCwtMzc3NzAzMTU5LDExMzE1ODI0MzldfQ==
 -->
