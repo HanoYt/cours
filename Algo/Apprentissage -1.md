@@ -56,8 +56,16 @@ Fin
 ```
 Lorsqu'on sait exactement combien de fois l'itération doit être effectuée, on peut effectuer ce type de code : 
 ```algo
-Algorithme DessineEtoiles (n:enti
+Algorithme DessineEtoiles (n:entier)
+Variable i:entier
+Début 
+	Pour i<-1 à n faire
+		Ecrire(*)
+	Fin Pour
+Fin
+```
+On peut également faire ce type de boucle avec des "tant que" mais à ce moment là il faudra initialiser `i`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MDQ4MjY3OCwxNjIwODMyMDU4LC0zNz
-c3MDMxNTksMTEzMTU4MjQzOV19
+eyJoaXN0b3J5IjpbLTE5MDA0NjkyMDEsMTYyMDgzMjA1OCwtMz
+c3NzAzMTU5LDExMzE1ODI0MzldfQ==
 -->
