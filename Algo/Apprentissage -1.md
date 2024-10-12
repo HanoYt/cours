@@ -77,8 +77,15 @@ Début
 	Fin tant que 
 Fin
 ```
-
+On aurait pu penser à ce type de diagramme : 
+```mermaid
+graph LR
+A[i] --> B((i!=100))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTU5MDIzNDUsMTYyMDgzMjA1OCwtMz
-c3NzAzMTU5LDExMzE1ODI0MzldfQ==
+eyJoaXN0b3J5IjpbLTQ3MjkxMjY3NywxNjIwODMyMDU4LC0zNz
+c3MDMxNTksMTEzMTU4MjQzOV19
 -->
