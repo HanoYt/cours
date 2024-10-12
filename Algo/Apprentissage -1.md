@@ -22,7 +22,8 @@ C --> D
 ```
 ### Premier élément 
 #### Instruction de sortie 
-
+``` algo
+Algorithme 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDIwMTkxNjBdfQ==
+eyJoaXN0b3J5IjpbMTEzMTU4MjQzOV19
 -->
