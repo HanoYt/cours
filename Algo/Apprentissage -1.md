@@ -78,8 +78,13 @@ Début
 Fin
 ```
 On aurait pu penser à ce type de diagramme : 
-
+```algo
+Algorithme CompteJusqueCentRecursif (n:entier)
+Début 
+	Si (n<=100)
+	Alors 
+		ÉCRIRE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NTQ0ODU4NCwxNjIwODMyMDU4LC0zNz
-c3MDMxNTksMTEzMTU4MjQzOV19
+eyJoaXN0b3J5IjpbMTczMzcxMjU5NywxNzk1NDQ4NTg0LDE2Mj
+A4MzIwNTgsLTM3NzcwMzE1OSwxMTMxNTgyNDM5XX0=
 -->
