@@ -54,8 +54,10 @@ Début
 	Fin Pour
 Fin
 ```
-
+Lorsqu'on sait exactement combien de fois l'itération doit être effectuée, on peut effectuer ce type de code : 
+```algo
+Algorithme DessineEtoiles (n:enti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMDgzMjA1OCwtMzc3NzAzMTU5LDExMz
-E1ODI0MzldfQ==
+eyJoaXN0b3J5IjpbMTQ2MDQ4MjY3OCwxNjIwODMyMDU4LC0zNz
+c3MDMxNTksMTEzMTU4MjQzOV19
 -->
