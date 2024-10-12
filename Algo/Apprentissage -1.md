@@ -78,14 +78,8 @@ Début
 Fin
 ```
 On aurait pu penser à ce type de diagramme : 
-```mermaid
-graph LR
-A[i] --> B((i!=100))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MjkxMjY3NywxNjIwODMyMDU4LC0zNz
+eyJoaXN0b3J5IjpbMTc5NTQ0ODU4NCwxNjIwODMyMDU4LC0zNz
 c3MDMxNTksMTEzMTU4MjQzOV19
 -->
