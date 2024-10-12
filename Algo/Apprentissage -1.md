@@ -33,7 +33,14 @@ Début
 	... actions
 Fin
 ```
+Nous aurons donc par exemple pour un algorithme de d'affichage de texte : 
+```algo 
+Alrogithme Bonjour
+Début 
+	Afficher("Hello Word")
+	Afficher("\n")
+Fin```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMDgzNjg0OCwxMTMxNTgyNDM5XX0=
+eyJoaXN0b3J5IjpbMTg1MzE5MDM0NSwxMTMxNTgyNDM5XX0=
 -->
