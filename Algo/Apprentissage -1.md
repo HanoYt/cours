@@ -83,8 +83,14 @@ Algorithme CompteJusqueCentRecursif (n:entier)
 Début 
 	Si (n<=100)
 	Alors 
-		ÉCRIRE
+		Écrire(n)
+		ALaLigne
+		CompteJusqueCentRecursif(n+1)
+	Fin si
+Fin
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMzcxMjU5NywxNzk1NDQ4NTg0LDE2Mj
-A4MzIwNTgsLTM3NzcwMzE1OSwxMTMxNTgyNDM5XX0=
+eyJoaXN0b3J5IjpbLTEwNjg0MDgwNzgsMTc5NTQ0ODU4NCwxNj
+IwODMyMDU4LC0zNzc3MDMxNTksMTEzMTU4MjQzOV19
 -->
