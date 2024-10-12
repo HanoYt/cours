@@ -1,4 +1,4 @@
-
+# Algorithme leçon 1
 ```mermaid
 sequenceDiagram
 Alice ->> Bob: Hello Bob, how are you?
@@ -20,7 +20,9 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 ```
-### Instruction de 
+### Premier élément 
+#### Instruction de sortie 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkzOTA3MjgzXX0=
+eyJoaXN0b3J5IjpbLTE2MDIwMTkxNjBdfQ==
 -->
